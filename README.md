@@ -5,7 +5,6 @@ Olá, me chamo Gustavo 👋
 - 😄 Pronome: ele/dele 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutsALs&theme=dark&show_icons=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GutsALs&layout=compact)
 
 <div style="display: inline_block"><br>
